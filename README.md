@@ -19,7 +19,7 @@ An OpenSCAD-based parametric generator for toroidal propellers. The project is d
 
 1. Install [OpenSCAD](https://openscad.org/).
 2. Open `examples/example.scad`.
-3. Change the parameters passed to `toroidal_propeller()`.
+3. Change the parameters passed to `twisty_propeller()`.
 4. Press **F6** to render.
 5. Export using **File → Export → Export as STL**.
 
@@ -139,7 +139,7 @@ For final export, increase them progressively. Very high values can make OpenSCA
 ## Repository layout
 
 ```text
-ToroidForge/
+Twisty-Propeller/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
@@ -151,7 +151,7 @@ ToroidForge/
     ├── path.scad
     ├── profiles.scad
     ├── loft.scad
-    └── toroidal_propeller.scad
+    └── twisty_propeller.scad
 ```
 
 ## Design notes
