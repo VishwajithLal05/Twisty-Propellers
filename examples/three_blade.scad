@@ -1,5 +1,5 @@
 $fn=72;
-use <../src/toroidal_propeller.scad>;
+use <../src/twisty_propeller.scad>;
 
 toroidal_propeller(
   blades=3, rotation="CW",
