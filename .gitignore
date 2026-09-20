@@ -1,0 +1,8 @@
+*.stl
+*.3mf
+*.off
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+openscad/*.tmp
