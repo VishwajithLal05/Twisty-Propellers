@@ -2,6 +2,9 @@
 
 An OpenSCAD-based parametric generator for toroidal propellers. The project is designed as an independent implementation with a familiar parameter-driven workflow: choose blade count, handedness, hub geometry, toroidal path geometry, airfoil keyframes, chord lengths, pivot locations and local attack angles, then render/export the result as STL.
 
+Built to support the Toroidal Propeller research paper titled "Effect of Blade Number on the Aerodynamic Efficiency of Toroidal
+Propellers for Sustainable Aviation" — this repo lets you regenerate the geometry for any blade count n and export STL for prototyping or CFD meshing. 
+
 ## Features
 
 - **Multi-blade propellers** — 1, 2, 3, 4+ blades.
